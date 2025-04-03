@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/atico/Desktop/ESTUDIANTES/Samuel Parga/PASOS/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+				"/Users/atico/Desktop/ESTUDIANTES/Samuel Parga/PASOS/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/atico/Desktop/ESTUDIANTES/Samuel Parga/PASOS/Content/Audios/s_SFX_Dirt.uasset",
+				"/Users/atico/Desktop/ESTUDIANTES/Samuel Parga/PASOS/Content/Audios/_SFX_Grass.uasset",
+				"/Users/atico/Desktop/ESTUDIANTES/Samuel Parga/PASOS/Content/Audios/s_SFX_Grass.uasset",
+				"/Users/atico/Desktop/ESTUDIANTES/Samuel Parga/PASOS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
